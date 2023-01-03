@@ -1,0 +1,7 @@
+.right {
+  width: 90%;
+}
+.bottom {
+  display: flex;
+  justify-content: space-between;
+}

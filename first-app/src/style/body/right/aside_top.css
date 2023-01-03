@@ -1,0 +1,17 @@
+.aside_top {
+  background-color: burlywood;
+}
+.aside_top h5 {
+  height: 30px;
+  background-color: rgb(147, 122, 89);
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 5px;
+}
+.aside_top ul {
+  padding-bottom: 10px;
+}
+.aside_top li {
+  list-style: outside;
+}

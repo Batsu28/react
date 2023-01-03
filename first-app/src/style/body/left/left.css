@@ -1,0 +1,7 @@
+.left {
+  position: sticky;
+  top: 60px;
+  width: 200px;
+  height: 50vh;
+  background-color: blue;
+}
