@@ -8,13 +8,13 @@ export default function Header() {
           <h1>Logo</h1>
           <ul>
             <li>
-              <a href="#">Text1</a>
+              <a href="#">About</a>
             </li>
             <li>
-              <a href="#">Text2</a>
+              <a href="#">Products</a>
             </li>
             <li>
-              <a href="#">Text3</a>
+              <a href="#">For Teams</a>
             </li>
           </ul>
           <input type="text" placeholder="search" />

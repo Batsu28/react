@@ -1,9 +1,9 @@
 .aside_top {
-  background-color: burlywood;
+  background-color: rgb(244, 229, 211);
 }
 .aside_top h5 {
   height: 30px;
-  background-color: rgb(147, 122, 89);
+  background-color: rgb(231, 208, 181);
   display: flex;
   align-items: center;
   margin: 0;

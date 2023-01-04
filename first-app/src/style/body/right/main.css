@@ -1,4 +1,13 @@
 .main {
   width: calc(100% - 300px);
-  background-color: aquamarine;
+}
+.main_mid {
+  padding: 10px;
+  border-top: 1px solid rgb(215, 215, 215);
+  border-bottom: 1px solid rgb(215, 215, 215);
+}
+@media screen and (max-width: 780px) {
+  .main {
+    width: 100%;
+  }
 }
